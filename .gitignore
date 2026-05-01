@@ -1,0 +1,12 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+node_modules
+*.gem
+*.sublime-project
+*.sublime-workspace
+.bundle
+.DS_Store
+Gemfile.lock
