@@ -1,0 +1,23 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if site.publication_category %}
+  {% for category in site.publication_category %}
+    {% assign cat = category[0] %}
+    {% assign cat_pubs = site.publications | where: "category", cat %}
+    {% if cat_pubs.size > 0 %}
+      <h2>{{ category[1].title }}</h2>
+      {% for post in cat_pubs reversed %}
+        {% include archive-single.html %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
