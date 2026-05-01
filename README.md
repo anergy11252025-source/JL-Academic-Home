@@ -1,10 +1,35 @@
-This repository contains a machine-readable academic profile (profile.json) for Junteng Liu, a Ph.D. candidate at the HKUST NLP Group. The profile captures personal details, academic background, research interests, research experience, publications, and contact information as available in local memory.
+# JL-Academic-Home
 
-| Year | Title | Venue | Role / Notes |
-|------|-------|-------|--------------|
-| 2025 | SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond | ArXiv | First author; co-authors include Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He |
-| 2025 | On the Perception Bottleneck of VLMs for Chart Understanding | ArXiv | First author; co-authors include Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He |
-| 2024 | On the Universal Truthfulness Hyperplane Inside LLMs | EMNLP 2024 | First author; co-authors: Shiqi Chen, Yu Cheng, Junxian He |
-| 2024 | In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation | ICML 2024 | Co-author; authors include Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He |
-| 2023 | C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models | NeurIPS 2023 | Co-author; authors include Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He |
-| 2023 | Composing Parameter-Efficient Modules with Arithmetic Operations | NeurIPS 2023 | Co-author; authors include Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He |
+## Junteng Liu's Academic Homepage
+
+This is the academic personal website for **Junteng Liu**, PostDoc Researcher at the HKUST NLP Group, Hong Kong University of Science and Technology.
+
+### About
+
+Junteng Liu is a PostDoc Researcher working with Professor Junxian He at HKUST. His research focuses on Natural Language Processing and Machine Learning, with specific interests in:
+
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLM)
+- LLM Truthfulness and Interpretability
+- Graph Neural Networks (New Research Direction)
+
+### Website Structure
+
+This website is built using the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template and includes:
+
+- **About**: Personal introduction and research overview
+- **Publications**: Complete list of academic publications
+- **CV**: Detailed curriculum vitae
+- **Research**: Research interests and directions
+- **Experience**: Professional and academic experience
+
+### Contact
+
+- Email: jliugi@connect.ust.hk
+- GitHub: [Vicent0205](https://github.com/Vicent0205)
+- Google Scholar: [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- X (Twitter): [@junteng88716710](https://twitter.com/junteng88716710)
+
+### Built With
+
+This site is based on the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template, a Jekyll-based GitHub Pages template for academic personal websites.
